@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![Iris](https://user-images.githubusercontent.com/76667866/136747807-c8fdba90-ad50-4c0a-9741-fb2527bd541f.gif)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
