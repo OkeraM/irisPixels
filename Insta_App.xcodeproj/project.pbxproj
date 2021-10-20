@@ -12,6 +12,7 @@
 		CF462C9B270FA44D00DCB3D6 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF462C9A270FA44D00DCB3D6 /* CameraViewController.swift */; };
 		CF4FBE8A270D1AA200E7FA72 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4FBE89270D1AA200E7FA72 /* LogInViewController.swift */; };
 		CF4FBE8F270D1AB800E7FA72 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4FBE8E270D1AB800E7FA72 /* FeedViewController.swift */; };
+		CF86CE00271E48DD004A9DD7 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF86CDFF271E48DD004A9DD7 /* CommentCell.swift */; };
 		CF92F0DF2710EE6F0040501E /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF92F0DE2710EE6F0040501E /* PostCell.swift */; };
 		CFE62508270C0C3F00E0FE54 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE62507270C0C3F00E0FE54 /* AppDelegate.swift */; };
 		CFE6250A270C0C3F00E0FE54 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE62509270C0C3F00E0FE54 /* SceneDelegate.swift */; };
@@ -51,6 +52,7 @@
 		CF462C9A270FA44D00DCB3D6 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		CF4FBE89270D1AA200E7FA72 /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 		CF4FBE8E270D1AB800E7FA72 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		CF86CDFF271E48DD004A9DD7 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		CF92F0DE2710EE6F0040501E /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		CFE62504270C0C3F00E0FE54 /* Insta_App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Insta_App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFE62507270C0C3F00E0FE54 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				CF4FBE8E270D1AB800E7FA72 /* FeedViewController.swift */,
 				CF462C9A270FA44D00DCB3D6 /* CameraViewController.swift */,
 				CF92F0DE2710EE6F0040501E /* PostCell.swift */,
+				CF86CDFF271E48DD004A9DD7 /* CommentCell.swift */,
 			);
 			path = Insta_App;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				CF4FBE8F270D1AB800E7FA72 /* FeedViewController.swift in Sources */,
 				CF4FBE8A270D1AA200E7FA72 /* LogInViewController.swift in Sources */,
 				CF92F0DF2710EE6F0040501E /* PostCell.swift in Sources */,
+				CF86CE00271E48DD004A9DD7 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
